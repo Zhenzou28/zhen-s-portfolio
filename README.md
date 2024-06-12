@@ -10,7 +10,7 @@ I even used census data to make dashboard for my family to pick a suitable subur
 
 You can find out more about that further down the page...
 
-#[Project 1 Wellingtong Suburb Choosing](https://github.com/Zhenzou28/Wellington-Suburb-Choosing.git)
+[Project 1 Wellingtong Suburb Choosing](https://github.com/Zhenzou28/Wellington-Suburb-Choosing.git)
 ---
 -Extracted CSV data from NZ.Stat
 -Loaded,cleaned & transformed using Power Query
