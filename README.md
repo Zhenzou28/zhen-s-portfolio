@@ -9,3 +9,9 @@ One of my achievements to date was creating a marketing campaign for 3 segments 
 I even used census data to make dashboard for my family to pick a suitable suburb.
 
 You can find out more about that further down the page...
+#[Project 1 Wellingtong Suburb Choosing]https://github.com/Zhenzou28/Wellington-Suburb-Choosing.git
+---
+-Extracted CSV data from NZ.Stat
+-Loaded,cleaned & transformed using Power Query
+-Built Model to analysis and visulisation using Power BI
+-Using the insights and findings to narrow down into top 3 recommended suburbs
