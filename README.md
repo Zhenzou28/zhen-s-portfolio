@@ -4,9 +4,8 @@
 ## A bit about me...
 Welcome to my portfolio. I'm a Data Analyst based in Wellington, NZ. 
 
-My passion for data started when I was digital marketing operator years ago.
-One of my achievements to date was creating a marketing campaign for segments of customers grouped by spending habits and shifted the peak time according to data, it makes us exceeded our target by 160% for that event - although a simple project, I understand the power of data the benefits it provides.
-I even used census data to make dashboard for my family to pick a suitable suburb.
+My passion for data began years ago as a digital marketing operator. One of my notable achievements was creating a marketing campaign for segments of customers grouped by spending habits. I shifted the peak time according to data, which resulted in us exceeding our target by 160% for that event. Although it was a simple project, I understand data's power and its benefits. 
+I even used census data to create a dashboard for my family to choose a suitable suburb.
 
 You can find out more about that further down the page...
 
